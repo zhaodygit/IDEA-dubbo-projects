@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="011-link-provider-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/011-link-provider/target/011-link-provider-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
